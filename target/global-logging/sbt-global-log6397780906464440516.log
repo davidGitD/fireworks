@@ -1,0 +1,20 @@
+[debug] > Exec(submit david.elices-reolid@capgemini.com 3Fch2EQI2LIJ35lE, None, None)
+[debug] Evaluating tasks: submit
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Attempting to submit "fireworks" assignment in "effective-scala" course
+[info] Using:
+[info] - email: david.elices-reolid@capgemini.com
+[info] - submit token: 3Fch2EQI2LIJ35lE
+[info] Connecting to Coursera...
+[info] Successfully connected to Coursera. (Status 201)
+[info] 
+[info] Assignment submitted successfully!
+[info] 
+[info] You can see how you scored by going to:
+[info] https://www.coursera.org/learn/effective-scala/programming/jiQL9/
+[info] or (for premium learners):
+[info] https://www.coursera.org/learn/effective-scala/programming/MT64m
+[info]                        
+[info] and clicking on "My Submission".
+[success] Total time: 2 s, completed 23 abr 2024 11:56:35
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,7 @@
+[debug] Packaging C:\Users\delicesr\IdeaProjects\fireworks\target\scala-3.3.0\effective-scala-fireworks_3-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	fireworks\Fireworks.scala
+[debug] 	  C:\Users\delicesr\IdeaProjects\fireworks\src\main\scala\fireworks\Fireworks.scala
+[debug] 	fireworks\FireworksRunner.scala
+[debug] 	  C:\Users\delicesr\IdeaProjects\fireworks\src\main\scala\fireworks\FireworksRunner.scala
+[debug] Done packaging.
